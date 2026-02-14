@@ -14,4 +14,4 @@ Error generating stack: `+e.message+`
             text-4xl font-bold tracking-wider text-blue-900
             ${A==="correct"?"border-green-500 bg-green-50":""}
             ${A==="incorrect"?"border-red-500 bg-red-50 animate-shake":"border-blue-200"}
-          `,children:Q||B.jsx("span",{className:"text-gray-300 opacity-50",children:"..."})})]}),B.jsx(Sh,{onInput:Gl,onDelete:jl,onSubmit:Hl}),K&&B.jsx(bh,{onClose:()=>x(!1)})]})};function Eh(){return B.jsx(sh,{children:B.jsx(oh,{children:B.jsx(Th,{})})})}ih.createRoot(document.getElementById("root")).render(B.jsx(Ol.StrictMode,{children:B.jsx(Eh,{})}));
+          `,style:{fontFamily:"'KtavYad', cursive"},children:Q||B.jsx("span",{className:"text-gray-300 opacity-50",children:"..."})})]}),B.jsx(Sh,{onInput:Gl,onDelete:jl,onSubmit:Hl}),K&&B.jsx(bh,{onClose:()=>x(!1)})]})};function Eh(){return B.jsx(sh,{children:B.jsx(oh,{children:B.jsx(Th,{})})})}ih.createRoot(document.getElementById("root")).render(B.jsx(Ol.StrictMode,{children:B.jsx(Eh,{})}));
